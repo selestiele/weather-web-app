@@ -1,0 +1,32 @@
+.current-weather-container {
+    padding: .25em;
+    margin: .5em;
+    text-align: center;
+    background-color: slategray;
+    color: white;
+    align-content: middle;
+    width: 30%;
+    border-radius: 15px;
+}
+
+.attribution {
+    font-style: italic;
+    color: navy;
+
+    a {
+        text-decoration: none;
+    }
+}
+
+.current-temp-summary {
+    padding: 1em 0;
+}
+
+.current-temp {
+    font-size: 4em;
+    font-weight: 700;
+}
+
+.high-low {
+    font-size: 1.25em;
+}
