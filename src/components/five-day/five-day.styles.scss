@@ -1,0 +1,22 @@
+.five-day-container {
+    background-color: #F2FCFE;
+    margin: 1em;
+    padding: 1em;
+    text-align: center;
+    border-radius: 15px;    
+
+    h2 {
+        text-align: left;
+        font-size: 1.75em;
+        font-weight: normal;
+        text-transform: uppercase;
+        color: #18127B;
+    }
+
+    .summary-container {
+        width: 100%;
+        display: flex;
+        align-content: space-between;
+    }
+}
+

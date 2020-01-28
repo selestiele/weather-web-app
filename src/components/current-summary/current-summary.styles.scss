@@ -1,0 +1,29 @@
+.current-summary-container {
+    padding: 1em;
+    margin: 1em;
+    text-align: center;
+    background-color: #F2FCFE;
+    color: #18127B;
+    width: 30%;
+    border-radius: 15px;
+}
+
+.current-temp-summary {
+    padding: 1em 0;
+}
+
+.location {
+    font-size: 1.5em;
+    margin: 0 auto;
+    text-transform: uppercase;
+}
+
+.current-temp {
+    font-size: 3.5em;
+    font-weight: 600;
+}
+
+.forecast-icon {
+    width: 75%;
+    margin: 0 auto;
+}

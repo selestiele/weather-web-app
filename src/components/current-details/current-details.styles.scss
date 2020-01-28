@@ -1,0 +1,39 @@
+.current-details-container {
+    padding: 2em 1em;
+    margin: 1em;
+    text-align: center;
+    background-color: #F2FCFE;
+    color: #18127B;
+    width: 70%;
+    border-radius: 15px;
+    
+
+    .detail-row {
+        display: flex;
+        font-size: 1.5em;
+        width: 90%;
+        flex-wrap: nowrap;
+        align-content: space-between;
+        margin: 0 auto;
+    }
+
+    .detail-description {
+        width: 50%;
+        text-align: left;
+    }
+
+    .detail-result {
+        width: 50%;
+        text-align: right;
+    }
+}
+
+.attribution {
+    font-style: italic;
+    color: navy;
+
+    a {
+        text-decoration: none;
+    }
+
+}

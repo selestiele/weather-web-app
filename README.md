@@ -1,3 +1,12 @@
+After a few tutorials for React, I decided to try and create a web-based weather application on my own. This does not follow a tutorial. Design of layout is my own. 
+
+Credits: 
+Weather API by DarkSky.com.
+Zip Code Lat & Long by opendatasoft.com
+Weather icons (Climacons) by Adam Whitcroft (http://adamwhitcroft.com/climacons/).
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

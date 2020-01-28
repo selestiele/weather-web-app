@@ -1,0 +1,29 @@
+.single-day-summary-container {
+    width: 15%;
+    background-color: #18127B;
+    color: #F2FCFE;
+    border-radius: 15px;
+    padding: 1em;
+    margin: 0 .5em;
+
+    .day-name {
+        text-transform: uppercase;
+        font-size: 1.5em;
+        font-weight: normal;
+        margin: 0;
+    }
+
+}
+
+.daily-forecast-icon {
+    width: 75%;
+    height: 50%;
+    max-height: 100px;
+    margin: .5em auto;
+    display: block;
+}
+
+.high-lo {
+    font-size: 1em;
+    margin-top: 1.5em;
+}

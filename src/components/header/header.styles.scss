@@ -1,7 +1,15 @@
 .header-container {
-    display: flex;
+    //display: flex;
     width: 100%;
-    padding: 0 2em;
-    background-color: transparent;
+    text-align: center;
+
+  .site-title {
+      display: block;
+      font-weight: normal;
+      text-transform: uppercase;
+      color: #F2FCFE;
+  }
+
+    
     
 }
